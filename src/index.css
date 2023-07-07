@@ -1,0 +1,13 @@
+* {
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+}
